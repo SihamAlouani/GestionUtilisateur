@@ -1,0 +1,14 @@
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\bin\Debug\net7.0\GestionUtilisateur.Domain.deps.json
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\bin\Debug\net7.0\GestionUtilisateur.Domain.runtimeconfig.json
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\bin\Debug\net7.0\GestionUtilisateur.Domain.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\bin\Debug\net7.0\GestionUtilisateur.Domain.pdb
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\obj\Debug\net7.0\GestionUtilisateur.Domain.csproj.AssemblyReference.cache
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\obj\Debug\net7.0\GestionUtilisateur.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\obj\Debug\net7.0\GestionUtilisateur.Domain.AssemblyInfoInputs.cache
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\obj\Debug\net7.0\GestionUtilisateur.Domain.AssemblyInfo.cs
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\obj\Debug\net7.0\GestionUtilisateur.Domain.csproj.CoreCompileInputs.cache
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\obj\Debug\net7.0\GestionUtilisateur.Domain.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\obj\Debug\net7.0\refint\GestionUtilisateur.Domain.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\obj\Debug\net7.0\GestionUtilisateur.Domain.pdb
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\obj\Debug\net7.0\GestionUtilisateur.Domain.genruntimeconfig.cache
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Domain\obj\Debug\net7.0\ref\GestionUtilisateur.Domain.dll

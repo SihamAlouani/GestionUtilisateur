@@ -1,0 +1,17 @@
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\bin\Debug\net7.0\GestionUtilisateur.Infra.deps.json
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\bin\Debug\net7.0\GestionUtilisateur.Infra.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\bin\Debug\net7.0\GestionUtilisateur.Infra.pdb
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\obj\Debug\net7.0\GestionUtilisateur.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\obj\Debug\net7.0\GestionUtilisateur.Infra.AssemblyInfoInputs.cache
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\obj\Debug\net7.0\GestionUtilisateur.Infra.AssemblyInfo.cs
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\obj\Debug\net7.0\GestionUtilisateur.Infra.csproj.CoreCompileInputs.cache
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\obj\Debug\net7.0\GestionUtilisateur.Infra.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\obj\Debug\net7.0\refint\GestionUtilisateur.Infra.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\obj\Debug\net7.0\GestionUtilisateur.Infra.pdb
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\obj\Debug\net7.0\ref\GestionUtilisateur.Infra.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\obj\Debug\net7.0\GestionUtilisateur.Infra.csproj.AssemblyReference.cache
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\bin\Debug\net7.0\GestionUtilisateur.Application.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\bin\Debug\net7.0\GestionUtilisateur.Domain.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\bin\Debug\net7.0\GestionUtilisateur.Application.pdb
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\bin\Debug\net7.0\GestionUtilisateur.Domain.pdb
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Infra\obj\Debug\net7.0\GestionUtilisateur.Infra.csproj.CopyComplete

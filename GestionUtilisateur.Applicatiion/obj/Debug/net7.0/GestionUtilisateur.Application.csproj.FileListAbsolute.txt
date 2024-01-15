@@ -1,0 +1,15 @@
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\bin\Debug\net7.0\GestionUtilisateur.Application.deps.json
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\bin\Debug\net7.0\GestionUtilisateur.Application.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\bin\Debug\net7.0\GestionUtilisateur.Application.pdb
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\obj\Debug\net7.0\GestionUtilisateur.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\obj\Debug\net7.0\GestionUtilisateur.Application.AssemblyInfoInputs.cache
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\obj\Debug\net7.0\GestionUtilisateur.Application.AssemblyInfo.cs
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\obj\Debug\net7.0\GestionUtilisateur.Application.csproj.CoreCompileInputs.cache
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\obj\Debug\net7.0\GestionUtilisateur.Application.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\obj\Debug\net7.0\refint\GestionUtilisateur.Application.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\obj\Debug\net7.0\GestionUtilisateur.Application.pdb
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\obj\Debug\net7.0\ref\GestionUtilisateur.Application.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\bin\Debug\net7.0\GestionUtilisateur.Domain.dll
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\bin\Debug\net7.0\GestionUtilisateur.Domain.pdb
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\obj\Debug\net7.0\GestionUtilisateur.Application.csproj.AssemblyReference.cache
+C:\Users\siham\OneDrive\Documents\JobInTech\Project_.Net\GestionUtilisateur\GestionUtilisateur.Applicatiion\obj\Debug\net7.0\GestionUtilisateur.Application.csproj.CopyComplete
